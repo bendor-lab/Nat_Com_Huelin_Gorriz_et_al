@@ -2,7 +2,7 @@
 
 Code repository for "The Role of Experience in Prioritizing Hippocampal Replay". If you use this code in your research, please cite this paper.
 
-Codes migrated from https://github.com/martahuelin/Huelin-Gorriz-et-al. 
+Codes migrated from https://github.com/martahuelin/Huelin-Gorriz-et-al. please go to this repository for the original code.
 
 
 ### Prerequisites and installation
