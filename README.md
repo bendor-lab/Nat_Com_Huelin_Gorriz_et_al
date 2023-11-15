@@ -2,6 +2,9 @@
 
 Code repository for "The Role of Experience in Prioritizing Hippocampal Replay". If you use this code in your research, please cite this paper.
 
+Codes migrated from https://github.com/martahuelin/Huelin-Gorriz-et-al. 
+
+
 ### Prerequisites and installation
 - MATLAB 2017a or newer (working on MATLAB 2021a and MATLAB 2022b).
 - MATLAB Toolboxes:
